@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background: url("https://thumbs.dreamstime.com/b/funny-yellow-emoticon-face-copy-space-background-fun-social-smiley-faces-realistic-d-style-includes-happy-sad-angry-159875058.jpg");
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+h2{
+  text-align: center;
+  margin-top: 50px;
+}
+
+#joke{
+  width: 500px;
+  height: auto;
+  background-color: black;
+  position: relative;
+  margin: 150px auto;
+}
+
+#text{
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  padding: 50px 10px;
+}
